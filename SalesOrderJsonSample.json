@@ -1,0 +1,23 @@
+{
+    "orderNo": "101005",
+    "orderDate": "2022-05-01",
+    "sellToCustomerNo": "10000",
+    "amountIncludingVAT": 0.0,
+    "isApprovedForPosting": true,
+    "lines": [
+        {
+            "type": 2,
+            "no": "1968-S",
+            "quantity": 10.0,
+            "unitPrice": 191.0,
+            "amount": 1910.0
+        },
+        {
+            "type": 2,
+            "no": "1928-S",
+            "quantity": 7.0,
+            "unitPrice": 55.2,
+            "amount": 386.4
+        }
+    ]
+}
