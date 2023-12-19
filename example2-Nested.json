@@ -1,0 +1,7 @@
+{
+    "A Key": "Example Two",
+    "Nested thing": {
+        "First nested Key": "nested value",
+        "Second nested key": "some other value"
+    }
+}
